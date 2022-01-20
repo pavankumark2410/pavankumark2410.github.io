@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ignite>
+<modules>
+  <modulename>IGNITE</modulename>
+  <title>TRANSFORM YOUR VEHICLE INTO BEASTS</title>
+   <vehicle id="1" brand="ROLLS ROYCE" vehicleno="123KA" des="Classy Car" servicetype="MODIFY" status="1"/>
+  <vehicle id="2" brand="MARUTHI SUZUKU" vehicleno="213KA" des="VINATAGE CAR" servicetype="UPGRADE" status="0"/>
+     <vehicle id="3" brand="LAMBORGINI" vehicleno="9900TN" des="SUPER CAR" servicetype="UPGRADE" status="0"/>
+     <vehicle id="4" brand="SKODA" vehicleno="876KA" des="CLAASIC" servicetype="MODIFY" status="1"/>
+     <vehicle id="5" brand="BMW BIKE" vehicleno="213KA" des="SUPER BIKE" servicetype="UPGRADE" status="0"/>
+     <vehicle id="6" brand="TRACTOR" vehicleno="21LA" des="AGRICULTURE EQUIPEMENT" servicetype="UPGRADE" status="1"/>
+     
+<m>
+   <mechanic>
+        <id>1</id>
+        <name>PRITHVI</name>
+        <address>VELLORE ,TAMILNADU</address>
+        <phone>8884712624</phone>
+        <type>Engine</type>
+        <usetype>MECHANIC</usetype>
+        <status></status>
+    </mechanic>
+    <mechanic>
+        <id>3</id>
+        <name>RAVI</name>
+        <address>COIMBATORE ,TAMILNADU</address>
+        <phone>8884719624</phone>
+        <type>Engine</type>
+        <usetype>MECHANIC</usetype>
+        <status></status>
+    </mechanic>
+    <mechanic>
+        <id>2</id>
+        <name>RAM</name>
+        <address>CHENNAI ,TAMILNADU</address>
+        <phone>990080993</phone>
+        <type>Parts</type>
+        <usetype>MECHANIC</usetype>
+        <status></status>
+    </mechanic>
+    <mechanic>
+        <id>4</id>
+        <name>RAJU</name>
+        <address>HYDERBAD ,TELANGANA</address>
+        <phone>9646563434</phone>
+        <type>ALL</type>
+        <usetype>MECHANIC</usetype>
+        <status></status>
+    </mechanic>
+    <mechanic>
+        <id>5</id>
+        <name>ravi</name>
+        <address>HYDERBAD ,TELANGANA</address>
+        <phone>9646563434</phone>
+        <type>SUPERVISOR/GUIDE</type>
+        <usetype>MECHANIC</usetype>
+        <status></status>
+    </mechanic>
+</m>
+
+<c>
+     <content about="mechanics">
+      <title>ABOUT MECHANIC 
+        IGNITE , OUR MISSION
+
+ Stop for the top of the line automotive repair work. We understand that car repairs can be a very difficult and complicated process. Too often it is overpriced, unreliable or just shady. For this reason, we provide service with a simplicity that can’t be matched at values that can’t be beaten. Our mechanics are the best in the business, and every single Mechanic One customer gets back on the road with peace of mind that certified experts performed every service on their car, truck or SUV. We also take great pride in being one of the only female-friendly auto repair shops in INDIA.
+We offer complete car care service from routine dealer recommended maintenance to complete diagnostics and full-service auto repair. We know that reputation is built “one customer at a time” and we appreciate your business.
+       </title>
+      </content>
+
+     <content about="ignite">
+      <title>ABOUT IGNITE</title>
+      <info>
+      IGNITE pride ourselves on delivering the highest quality of vehicle tuning, maintenance, repairs and installation of performance parts for our customers.
+
+Based in Aberdeen, Scotland, We have invested heavily in our business in key area’s such as high level training, advanced software, latest technology tuning tools and workshop equipment. This has provided our team with all the correct tools, understanding and knowledge together with our experience to succeed in our work at the very highest standard possible.
+
+IGNITE has been set up to offer the best service and advice on vehicle performance.
+
+ We also have the latest diagnostic equipment and techniques at our disposal. With these tools and techniques we can provide customers with the best tuning and servicing solutions available to suit their individual requirements.
+</info>
+</content>
+     <content about="services">
+       <title>ABOUT SERVICES</title>
+ <info>
+
+Our tuning options,
+Car Tuning (Stage 1),
+Car tuning (Stage 2),
+Truck/Agriculture tuning (Stage 1),
+DSG Tuning (Stage 1),
+Only options (car) DPF, EGR etc,
+Only options (Truck/Agriculture),
+E85 Flexfuel (if possible),
+Back to stock,
+WinOLS Mappack,Our tuning options,
+Car Tuning (Stage 1),
+Car tuning (Stage 2),
+Truck/Agriculture tuning (Stage 1),
+DSG Tuning (Stage 1),
+Only options (car) DPF, EGR etc,
+Only options (Truck/Agriculture),
+E85 Flexfuel (if possible),
+Back to stock,Our tuning options,
+Car Tuning (Stage 1),
+Car tuning (Stage 2),
+Truck/Agriculture tuning (Stage 1),
+DSG Tuning (Stage 1),
+Only options (car) DPF, EGR etc,
+Only options (Truck/Agriculture),
+E85 Flexfuel (if possible),
+Back to stock,Our tuning options,
+Car Tuning (Stage 1),
+Car tuning (Stage 2),
+Truck/Agriculture tuning (Stage 1).
+ </info>
+     </content>
+     <content about="contactus"> 
+<title>CONTACT US</title>
+ <info>
+      PHONE NO : +91 9900808472
+  EMAIL-ID: ignite@mail.com
+  ADDRESS 692 , 1st Floor, 11th A Main Rd, 5th Block,
+Jayanagar, Bengaluru, Karnataka 560041
+</info>
+</content>
+</c>
+</modules>
+ 
+
+</ignite>

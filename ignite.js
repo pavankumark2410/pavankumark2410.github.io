@@ -27,7 +27,7 @@ function myFunction(xml) {
     document.getElementById("modulename").innerHTML =
     xmlDoc.getElementsByTagName("modulename")[0].childNodes[0].nodeValue;
     document.getElementById("caption").innerHTML =
-    xmlDoc.getElementsByTagName("title")[0].childNodes[0].nodeValue;
+    xmlDoc.getElementsByTagName("title")[0].childNodes[0].nodeValue="IGNITE (MODIFY AND UPGRADE)";
 
     document.getElementById("abt").innerHTML =
     xmlDoc.getElementsByTagName("c")[0].childNodes[1].childNodes[1].childNodes[0].nodeValue;
